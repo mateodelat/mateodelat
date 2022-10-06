@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mateodelat
-- 👀 I’m interested in developing for mobile
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on a personal proyect
 - 📫 How to reach me throught my gmail address: mateodelat@gmail.com
 
 <!---
