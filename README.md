@@ -1,4 +1,4 @@
-# 🥊 Mateo de la torre
+# Mateo de la torre
 
 **`Fullstack developper and product manager`**
 
